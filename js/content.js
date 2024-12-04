@@ -1,6 +1,6 @@
 let contentArray = [
   {
-    content: "Seoul",
+    content: "Deajeon",
     backgroundImage: "url(./img/bg-seoul.jpg)",
   },
   {
