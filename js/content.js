@@ -1,19 +1,19 @@
 let contentArray = [
   {
-    content: "Deajeon",
-    backgroundImage: "url(./img/bg-seoul.jpg)",
+    content: "Daejeon",
+    backgroundImage: "url(./img/bg-daejeon.jpg)",
   },
   {
-    content: "Tokyo",
-    backgroundImage: "url(./img/bg-tokyo.jpg)",
+    content: "Berlin",
+    backgroundImage: "url(./img/bg-berlin.avif)",
   },
   {
-    content: "New York",
-    backgroundImage: "url(./img/bg-newyork.jpg)",
+    content: "Taipei",
+    backgroundImage: "url(./img/bg-taipei.avif)",
   },
   {
-    content: "London",
-    backgroundImage: "url(./img/bg-london.jpg)",
+    content: "Santorini",
+    backgroundImage: "url(./img/bg-santorini.jpg)",
   },
 ];
 
